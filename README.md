@@ -20,7 +20,8 @@ Next.js is a popular React framework that provides a powerful and efficient way 
 - Built-in CSS and Sass support for easy styling.
 - Hot module replacement for faster development iterations.
 - Static site generation for blazing fast websites.
-- Functions the run on the edge.
+- CDN hosted for better speed, security, scalability and value.
+- Serverless edge functions.
 
 ### Ruby on Rails - Backend
 
@@ -30,6 +31,7 @@ Ruby on Rails is a robust and mature backend framework known for its simplicity 
 - ActiveRecord for easy database management.
 - Convention over configuration for faster development.
 - Extensive libraries and gems for added functionality.
+- Extensive testing tools.
 - Strong community support and vast ecosystem.
 - Stability and security by design.
 
